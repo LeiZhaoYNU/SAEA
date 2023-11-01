@@ -24,9 +24,9 @@ scipy 1.1.0
 
 ## Dataset and Pre-train models
 
-Dataset: (dateset)[https://drive.google.com/drive/folders/1Aihe1T5B-8zGWRdLf_SBVt8JumzE3SYH?usp=drive_link]
+Dataset: [dateset](https://drive.google.com/drive/folders/1Aihe1T5B-8zGWRdLf_SBVt8JumzE3SYH?usp=drive_link)
 
-Pre-train models: [models](https://drive.google.com/drive/folders/1EQRbwfrzzU7BdRsx11phqFCOcYJU-iH-?usp=sharing]
+Pre-train models: [models](https://drive.google.com/drive/folders/1EQRbwfrzzU7BdRsx11phqFCOcYJU-iH-?usp=sharing)
 
 ## Acknowledgments
 
